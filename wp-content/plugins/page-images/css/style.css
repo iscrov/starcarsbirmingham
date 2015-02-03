@@ -1,0 +1,11 @@
+.field_left { float:left; }
+.field_right { float:right; }
+.clear { clear:both; }
+#dynamic_form { width:580px; }
+#dynamic_form input[type=text] { width:300px; }
+#dynamic_form .field_row { border:1px solid #999; margin-bottom:10px; padding:10px; }
+#dynamic_form label { display:block; font-weight:bold; padding:0 6px; }
+#dynamic_form .image_wrap{margin:0;}
+#dynamic_form .form_field{ margin-bottom:5px; clear:both; }
+#dynamic_form textarea{height: 95px; width: 555px;}
+#dynamic_form input.shop-now-url{width:100%}
